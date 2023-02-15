@@ -11,7 +11,7 @@
 
 ## O que é o Apache Ignite?
 
-Apache Ignite is a distributed database for high-performance computing with in-memory speed.
+O Apache Ignite é um banco de dados distribuído para computação de alto desempenho com velocidade na memória.
 
 <p align="center">
     <a href="https://ignite.apache.org">
