@@ -32,7 +32,7 @@ O Apache Ignite foi projetado para funcionar com memória, disco e Intel Optane 
 
 ## Ignite Native Persistence
 
-Embora o Apache Ignite seja amplamente usado como uma camada de cache sobre bancos de dados externos, ele vem com sua persistência nativa - um armazenamento baseado em disco distribuído, compatível com ACID e SQL. The native persistence integrates into the Ignite multi-tier storage as a disk tier that can be turned on to let Ignite store more data on disk than it can cache in memory and to enable fast cluster restarts.
+Embora o Apache Ignite seja amplamente usado como uma camada de cache sobre bancos de dados externos, ele vem com sua persistência nativa - um armazenamento baseado em disco distribuído, compatível com ACID e SQL.A persistência nativa se integra ao armazenamento multicamada do Ignite como uma camada de disco que pode ser ativada para permitir que o Ignite armazene mais dados no disco do que pode armazenar em cache na memória e permitir reinicializações rápidas do cluster.
 
 [Read More](https://ignite.apache.org/arch/persistence.html)
 
