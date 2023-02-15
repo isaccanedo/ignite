@@ -24,7 +24,7 @@ O Apache Ignite é um banco de dados distribuído para computação de alto dese
 * [C#/.NET APIs](https://ignite.apache.org/releases/latest/dotnetdoc/api/)
 * [C++ APIs](https://ignite.apache.org/releases/latest/cppdoc/)
 
-## Multi-Tier Storage
+## Armazenamento de várias camadas
 
 Apache Ignite is designed to work with memory, disk, and Intel Optane as active storage tiers. The memory tier allows using DRAM and Intel® Optane™ operating in the Memory Mode for data storage and processing needs. The disk tier is optional with the support of two options -- you can persist data in an external database or keep it in the Ignite native persistence. SSD, Flash, HDD, or Intel Optane operating in the AppDirect Mode can be used as a storage device.
 
