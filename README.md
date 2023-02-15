@@ -44,7 +44,7 @@ Os dados armazenados no Ignite são compatíveis com ACID tanto na memória quan
 ## ANSI SQL Support
 Apache Ignite comes with a ANSI-99 compliant, horizontally scalable, and fault-tolerant SQL engine that allows you to interact with Ignite as with a regular SQL database using JDBC, ODBC drivers, or native SQL APIs available for Java, C#, C++, Python, and other programming languages. Ignite supports all DML commands, including SELECT, UPDATE, INSERT, and DELETE queries as well as a subset of DDL commands relevant for distributed systems.
 
-[Read More](https://ignite.apache.org/features/sql.html)
+[consulte Mais informação](https://ignite.apache.org/features/sql.html)
 
 ## Machine Learning and High-Performance Computing
 [Apache Ignite Machine Learning](https://ignite.apache.org/features/machinelearning.html) is a set of simple, scalable, and efficient tools that allow building predictive machine learning models without costly data transfers. The rationale for adding machine and deep learning to Apache Ignite is quite simple. Today's data scientists have to deal with two major factors that keep ML from mainstream adoption.
