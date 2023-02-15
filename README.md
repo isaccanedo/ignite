@@ -39,7 +39,7 @@ Embora o Apache Ignite seja amplamente usado como uma camada de cache sobre banc
 ## Conformidade ACID
 Os dados armazenados no Ignite são compatíveis com ACID tanto na memória quanto no disco, tornando o Ignite um sistema **fortemente consistente**. As transações do Ignite funcionam em toda a rede e podem abranger vários servidores.
 
-[Read More](https://ignite.apache.org/features/transactions.html)
+[consulte Mais informação](https://ignite.apache.org/features/transactions.html)
 
 ## ANSI SQL Support
 Apache Ignite comes with a ANSI-99 compliant, horizontally scalable, and fault-tolerant SQL engine that allows you to interact with Ignite as with a regular SQL database using JDBC, ODBC drivers, or native SQL APIs available for Java, C#, C++, Python, and other programming languages. Ignite supports all DML commands, including SELECT, UPDATE, INSERT, and DELETE queries as well as a subset of DDL commands relevant for distributed systems.
