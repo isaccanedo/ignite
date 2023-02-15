@@ -46,7 +46,7 @@ O Apache Ignite vem com um mecanismo SQL compatível com ANSI-99, horizontalment
 
 [consulte Mais informação](https://ignite.apache.org/features/sql.html)
 
-## Machine Learning and High-Performance Computing
+## Aprendizado de máquina e computação de alto desempenho
 [Apache Ignite Machine Learning](https://ignite.apache.org/features/machinelearning.html) is a set of simple, scalable, and efficient tools that allow building predictive machine learning models without costly data transfers. The rationale for adding machine and deep learning to Apache Ignite is quite simple. Today's data scientists have to deal with two major factors that keep ML from mainstream adoption.
 
 High-performance computing (HPC) is the ability to process data and perform complex calculations at high speeds. Using Apache Ignite as a [high-performance compute cluster](https://ignite.apache.org/use-cases/hpc.html), you can turn a group of commodity machines or a cloud environment into a distributed supercomputer of interconnected Ignite nodes. Ignite enables speed and scale by processing records in memory and reducing network utilization with APIs for data and compute-intensive calculations. Those APIs implement the MapReduce paradigm and allow you to run arbitrary tasks across the cluster of nodes.
