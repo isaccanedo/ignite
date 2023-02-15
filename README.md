@@ -36,7 +36,7 @@ Even though Apache Ignite is broadly used as a caching layer on top of external 
 
 [Read More](https://ignite.apache.org/arch/persistence.html)
 
-## ACID Compliance
+## Conformidade ACID
 Data stored in Ignite is ACID-compliant both in memory and on disk, making Ignite a **strongly consistent** system. Ignite transactions work across the network and can span multiple servers.
 
 [Read More](https://ignite.apache.org/features/transactions.html)
