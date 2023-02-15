@@ -42,7 +42,7 @@ Os dados armazenados no Ignite são compatíveis com ACID tanto na memória quan
 [consulte Mais informação](https://ignite.apache.org/features/transactions.html)
 
 ## Suporte SQL ANSI
-Apache Ignite comes with a ANSI-99 compliant, horizontally scalable, and fault-tolerant SQL engine that allows you to interact with Ignite as with a regular SQL database using JDBC, ODBC drivers, or native SQL APIs available for Java, C#, C++, Python, and other programming languages. Ignite supports all DML commands, including SELECT, UPDATE, INSERT, and DELETE queries as well as a subset of DDL commands relevant for distributed systems.
+O Apache Ignite vem com um mecanismo SQL compatível com ANSI-99, horizontalmente escalonável e tolerante a falhas que permite que você interaja com o Ignite como se fosse um banco de dados SQL regular usando JDBC, drivers ODBC ou APIs SQL nativas disponíveis para Java, C#, C++, Python e outras linguagens de programação. Ignite supports all DML commands, including SELECT, UPDATE, INSERT, and DELETE queries as well as a subset of DDL commands relevant for distributed systems.
 
 [consulte Mais informação](https://ignite.apache.org/features/sql.html)
 
